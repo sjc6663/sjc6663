@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sjc6663
 - 👀 I’m interested in agriculture research. 
-- 🌱 I’m currently learning how to complete data analysis.
-- 💞️ I’m looking to collaborate on learning how to analyze data. 
+- 🌱 I’m currently learning how to complete data analysis. 
 - 📫 How to reach me sjc6663@psu.edu
 
 <!---
